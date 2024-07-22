@@ -1,0 +1,20 @@
+#login-form-div>form{
+    display: grid;
+    width: 250px;
+    margin-top: 50px;
+    margin-left: 500px;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+#submit{
+    width: 200px;
+    text-align: center;
+    margin-left: 25px;
+    background-color: tomato;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    border-radius: 2px;
+}

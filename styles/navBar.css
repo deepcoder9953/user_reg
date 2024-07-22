@@ -1,0 +1,32 @@
+#navbar {
+    margin: auto;
+    padding: 10px;
+    text-align: right;
+    height: auto;
+    width: auto;
+    border: none;
+    background-color: rgb(222, 228, 233);
+    border-radius: 5px;
+}
+
+#Home,
+#login,
+#signup {
+    margin: 20px;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+a:hover {
+    color: rgb(12, 4, 26);
+    cursor: pointer;
+    -webkit-transition: color 1s ease-out;
+    -moz-transition: color 1s ease-out;
+    -o-transition: color 1s ease-out;
+    transition: color 1s ease-out;
+}

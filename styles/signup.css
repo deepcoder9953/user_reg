@@ -1,0 +1,18 @@
+#signup-form-div>form{
+    display: grid;
+    width: 1200px;
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+#submit{
+    width: 200px;
+    text-align: center;
+    margin-left: 48px;
+    background-color: tomato;
+    color: white;
+    border: none;
+    border-radius: 2px;
+}
